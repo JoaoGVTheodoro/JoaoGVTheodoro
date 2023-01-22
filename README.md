@@ -5,17 +5,15 @@
 	
 
 
+I'm João Gabriel Valentim Theodoro, **Brazilian (🇧🇷)** Cross-Platform Development student.
 
+When I code, I always focus on **security** and the most **seamless** experience possible.
 
-	I'm João Gabriel Valentim Theodoro, **Brazilian (🇧🇷)** Cross-Platform Development student.
+I like Open Source World! I consider myself a penguin!
 
-	When I code, I always focus on **security** and the most **seamless** experience possible.
+### **Please contact me:**
 
-	I like Open Source World! I consider myself a penguin!
-
-	### **Please contact me:**
-
-	- 📬 e-mail: joaogabrielvltheodoro@gmail.com 
-	- 📱 phone: **+55 (14)  99778-3518**
+- 📬 e-mail: joaogabrielvltheodoro@gmail.com 
+- 📱 phone: **+55 (14)  99778-3518**
 	
 </center>
