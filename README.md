@@ -1,4 +1,4 @@
-<center>
+<p dir="auto" align="center">
 	
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoaoGVTheodoro">
 
@@ -18,4 +18,4 @@ I like Open Source World! I consider myself a penguin!
 - 📬 e-mail: joaogabrielvltheodoro@gmail.com 
 - 📱 phone: **+55 (14)  99778-3518**
 	
-</center>
+</p>
