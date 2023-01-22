@@ -7,10 +7,8 @@
 	
 
 <p dir="auto" align="center">
-I'm João Gabriel Valentim Theodoro, **Brazilian (🇧🇷)** Cross-Platform Development student.
-
+I'm João Gabriel Valentim Theodoro, **Brazilian (🇧🇷)** Cross-Platform Development student. 
 When I code, I always focus on **security** and the most **seamless** experience possible.
-
 I like Open Source World! I consider myself a penguin!
 </p>
 ### **Please contact me:**
