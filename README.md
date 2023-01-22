@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoaoGVTheodoro">
 
 <center>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=15F7ED&center=true&width=435&lines=Hello+There!+%F0%9F%91%8B;This+is+Jo%C3%A3o+;Gabriel+Valentim+Theodoro.....;Nice+to+meet+you!" alt="JoaoGVTheodoro" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=15F7ED&center=true&width=435&lines=Hello+There!+%F0%9F%91%8B;This+is+Jo%C3%A3o....;Nice+to+meet+you!" alt="JoaoGVTheodoro" /></a>
 </center>
 
 
