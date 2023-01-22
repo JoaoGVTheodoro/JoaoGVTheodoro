@@ -8,9 +8,10 @@
 
 <p dir="auto" align="center">
 I'm João Gabriel Valentim Theodoro, **Brazilian (🇧🇷)** Cross-Platform Development student. 
-When I code, I always focus on **security** and the most **seamless** experience possible.
+When I code, I always focus on <strong>security</strong> and the most <strong>seamless experience</strong> possible.	
 I like Open Source World! I consider myself a penguin!
 </p>
+
 ### **Please contact me:**
 
 - 📬 e-mail: joaogabrielvltheodoro@gmail.com 
