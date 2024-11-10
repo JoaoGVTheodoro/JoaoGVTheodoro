@@ -15,7 +15,7 @@ I like Open Source World! I consider myself a penguin!
 
 ### **Please contact me:**
 
-- 📬 e-mail: joaogabrielvltheodoro@gmail.com 
+- 📬 e-mail: joao.gabriel.vale.theodoro@gmail.com 
 - 📱 phone: **+55 (14)  99778-3518**
 	
 
